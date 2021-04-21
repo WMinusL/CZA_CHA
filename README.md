@@ -8,9 +8,7 @@
 
 ### python版本：
 
-zip为打包好的exe文件(需要python环境)
-
-也可运行.py文件（需要matplotlib和numpy）
+需要matplotlib和numpy
 
 Name：城市名
 
